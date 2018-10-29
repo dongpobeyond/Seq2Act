@@ -1,0 +1,9 @@
+G::	start	1	add_node | add_operation
+G::	inner_start	1	add_node | add_type_node | add_edge | add_entity_node | add_operation | return | end_operation
+G::	type_node	1	arg_node
+G::	entity_node	1	arg_node
+G::	edge	1 + 1	arg_node + arg_node
+G::	end_operation_arg	1	ope_for
+G::	end_operation_arg_count	1 + 1	ope_for + ope_for
+G::	end_operation_count	1 + 1	ope_for + ope_return
+G::	end_operation_sum	1 + 1 + 1	ope_for + ope_in + ope_return

@@ -1,0 +1,16 @@
+G::	start	1	add_node | add_operation | add_equal
+G::	inner_start	1	add_node | add_type_node | add_edge | add_entity_node | add_operation | return | end_operation | add_the_node | add_equal | end_action | add_equal
+G::	add_equal	1 + 1	arg_node + arg_node
+G::	type_node	1	arg_node
+G::	the_node	1	arg_node
+G::	entity_node	1	arg_node
+G::	edge	1 + 1	arg_node + arg_node
+G::	end_operation_count	1	ope_for
+G::	end_operation_sum	1	ope_for
+G::	end_operation_max	1	ope_for
+G::	end_operation_min	1	ope_for
+G::	end_operation_argmin	1	ope_for
+G::	end_operation_argmax	1	ope_for
+G::	end_operation_exist	1	ope_for
+G::	end_operation_compare	1	ope_arg
+G::	end_operation_the	1	ope_arg

@@ -1,0 +1,448 @@
+what flights go from ent0:_ci to ent1:_ci	a
+what flights go from ent0:_ci to ent1:_ci	a
+i need an ent0:_pd flight from ent0:_ci to ent1:_ci	a
+what types of ground transportation are available in ent0:_ci	a
+what flights go from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+is ground transportation available in ent0:_ci	a
+i need to fly from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+flights from ent0:_ci to ent1:_ci	a
+flights from ent0:_ci to ent1:_ci	a
+flights from ent0:_ci to ent1:_ci	a
+i would like flight information from ent0:_ci to ent1:_ci	a
+could i have flight information on flights from ent0:_ci to ent1:_ci please	a
+could i have flight information on flights from ent0:_ci to ent1:_ci please	a
+i would like information on flights leaving from ent0:_ci to ent1:_ci	a
+i need information on flights from ent0:_ci to ent1:_ci that leave on a ent0:_da	a
+i need the flights from ent0:_ci to ent1:_ci on a ent0:_da	a
+i need the fares on flights from ent0:_ci to ent1:_ci on a ent0:_da	a
+i want to go from ent0:_ci to ent1:_ci on a ent0:_da	a
+i need a flight from ent0:_ci to ent1:_ci that leaves before ent0:_ti see if too much information	a
+get fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get the ent0:_da fare from ent0:_ci to ent1:_ci	a
+list ent0:_da flights from ent0:_ci to ent1:_ci	a
+list ent0:_da flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent0:_ap	a
+list flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent1:_ci	a
+get last flight from ent0:_ci to ent1:_ci on ent0:_da or first flight from ent2:_ci to ent3:_ci on ent1:_da	a
+get first flight from ent0:_ci to ent1:_ci on ent0:_da	a
+get last flight from ent0:_ci to ent1:_ci on ent0:_da	a
+list last ent0:_da flight from ent0:_ci to ent1:_ci	a
+get flight from ent0:_ci to ent1:_ci stopping at ent0:_ap	a
+get flights between ent0:_ci and ent1:_ci	a
+i need a flight from ent0:_ci to ent1:_ci leaving ent0:_da before ent0:_ti	a
+i need a flight departing from ent0:_ci to ent1:_ci leaving ent0:_da before ent0:_ti	a
+is there ground transportation available at the ent0:_ap	a
+i need flight information for a flight departing from ent0:_ci to ent1:_ci departing ent0:_da at ent0:_ti	a
+i need flight information for a flight departing from ent0:_ci to ent1:_ci ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci going back to ent1:_ci ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci to ent1:_ci on ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci to ent1:_ci on ent0:_da after ent0:_ti	a
+i need a flight from ent0:_ci to ent1:_ci on ent0:_da	a
+is there ground transportation available at the ent0:_ap	a
+i need flight and airline information for a flight from ent0:_ci to ent1:_ci on ent0:_da departing after ent0:_ti	a
+is there ground transportation available at the ent0:_ap	a
+i need a flight from ent0:_ci to ent1:_ci departing ent0:_da after ent0:_ti	a
+is there ground transportation available at the ent0:_ap	a
+i need a flight from ent0:_ci to ent1:_ci on ent0:_da departing after ent0:_ti	a
+i need flight and fare information for ent0:_da departing prior to ent0:_ti from ent0:_ci going to ent1:_ci	a
+i need flight and fare information departing from ent0:_ci to ent1:_ci on ent0:_da before ent0:_ti	a
+i need flight numbers and airlines for flights departing from ent0:_ci to ent1:_ci on ent0:_da departing before ent0:_ti	a
+i need flight numbers for those flights departing on ent0:_da before ent0:_ti from ent0:_ci going to ent1:_ci	a
+list airports in ent0:_st ent1:_st and ent2:_st please	a
+list ent0:_st ent1:_st ent2:_st airports	a
+list the ent0:_st airport	a
+list ent0:_st airports	a
+list flights from ent0:_ci to ent1:_ci	a
+list ent0:_st airports	a
+list airports	( _lambda $0 e ( _airport $0 ) )
+list ent0:_da ent0:_pd flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci before ent0:_ti ent0:_da ent0:_pd	a
+which airlines fly between ent0:_ci and ent1:_ci	a
+please list ent0:_pd flights between ent0:_ci and ent1:_ci	a
+what is ent0:_ap	a
+what are the flights from ent0:_ci to ent1:_ci	a
+please list only the flights from ent0:_ci to ent1:_ci that leave before ent0:_ti	a
+what type of aircraft are flying from ent0:_ci to ent1:_ci before ent0:_ti	a
+i need information on flights from ent0:_ci to ent1:_ci	a
+i need a flight from ent0:_ci to ent1:_ci	a
+i need a ticket from ent0:_ci to ent1:_ci	a
+i need a ticket from ent0:_ci to ent1:_ci	a
+i need flight information from ent0:_ci to ent1:_ci	a
+i need to rent a car at ent0:_ci	a
+i need a daily flight from ent0:_ci to ent1:_ci	a
+i need flights departing from ent0:_ci and arriving ent1:_ci	a
+i need information on flights from ent0:_ci to ent1:_ci	a
+i need information on flights from ent0:_ci to ent1:_ci	a
+i want a flight from ent0:_ci to ent1:_ci	a
+i need information on flights between ent0:_ci and ent1:_ci	a
+i need the flight numbers of flights leaving from ent0:_ci and arriving at ent1:_ci	a
+which flights go from ent0:_ci to ent1:_ci and back	a
+what does ent0:_fb mean	a
+show me flights from ent0:_ci to ent1:_ci one way	a
+what the ent0:_al stand for	a
+i'd like a one way ticket from ent0:_ci to ent1:_ci either ent0:_da ent0:_pd or ent1:_da ent1:_pd	a
+show me flights from ent0:_ci to ent1:_ci	a
+what does ent0:_fb mean	a
+what does ent0:_fb mean	a
+what does ent0:_fb mean	a
+what are restrictions ent0:_rc	a
+please show me ent0:_cl flights from ent0:_ci to ent1:_ci one way leaving before ent0:_ti	a
+now show me all round trip flights from ent0:_ci to ent1:_ci that arrive before ent0:_ti in ent2:_ci	a
+round trip flights from ent0:_ci to ent1:_ci please	a
+what airline is ent0:_al	a
+show me all ent0:_al flights from ent0:_ci to ent1:_ci	a
+show me all flights from ent0:_ci to ent1:_ci please	a
+which airline is ent0:_al	a
+please list all flights from ent0:_ci to ent1:_ci any any type of class	a
+what does ent0:_fb mean	a
+show me a return flight from ent0:_ci to ent0:_ap please	a
+what does ent0:_fb mean	a
+what does ent0:_fb mean	a
+what does ent0:_fb mean	a
+what does ent0:_fb mean	a
+show me one way flights from ent0:_ci to ent1:_ci after ent0:_ti on ent0:_da	a
+show me the flights from ent0:_ci to ent1:_ci	a
+show me round trip flights from ent0:_ci to ent1:_ci	a
+show me round trip flights from ent0:_ci to ent1:_ci	a
+show me nonstop flights from ent0:_ci to ent1:_ci	a
+show me round trips between ent0:_ci and ent1:_ci	a
+show me round trip flights from ent0:_ci to ent1:_ci	a
+show me the cheapest one way flights from ent0:_ci to ent1:_ci	a
+show me the cheapest one way flights from ent0:_ci to ent1:_ci	a
+show me the cheapest economy flights from ent0:_ci to ent1:_ci	a
+ent0:_ci to ent1:_ci economy	a
+ent0:_ci to ent1:_ci economy	a
+what airline is ent0:_al	a
+ground transportation in ent0:_ci	a
+ground transportation for ent0:_ci	a
+ent0:_ci to ent1:_ci economy	a
+ent0:_ci to ent1:_ci economy	a
+ent0:_ci to ent1:_ci economy	a
+what airline is ent0:_al	a
+which airline is ent0:_al	a
+which airline is ent0:_al	a
+which airline is ent0:_al	a
+which airline is ent0:_al	a
+ent0:_ci to ent1:_ci one way before ent0:_ti	a
+what airline is ent0:_al	a
+ent0:_ci to ent1:_ci	a
+from ent0:_ci to ent1:_ci one way after ent0:_ti ent0:_da	a
+and from ent0:_ci to ent1:_ci before ent0:_ti daily	a
+what airline is ent0:_al	a
+show me all flights from ent0:_ci to ent1:_ci	a
+show me all flights from ent0:_ci to ent1:_ci	a
+what airline is ent0:_al	a
+show me ground transportation in ent0:_ci	a
+show me flights from ent0:_ci to ent1:_ci	a
+show me ground transportation in ent0:_ci	a
+show me flights from ent0:_ci to ent1:_ci	a
+show me ent0:_cl flights from ent0:_ci to ent1:_ci round trip	a
+show me ent0:_cl flights from ent0:_ci to ent1:_ci round trip	a
+show me all round trip flights from ent0:_ci to ent1:_ci nonstop	a
+show me all round trip flights from ent0:_ci to ent1:_ci nonstop	a
+show me one way flights from ent0:_ci to ent1:_ci before ent0:_ti on any day	a
+what does ent0:_fb mean	a
+show me round trip flights from ent0:_ci to ent1:_ci	a
+what does the ent0:_rc mean	a
+what does ent0:_fb mean	a
+what airline is ent0:_al	a
+what airline is ent0:_al	a
+what airline is ent0:_al	a
+what airline is a s ent0:_al in sam	a
+show me nonstop flights from ent0:_ci to ent1:_ci	a
+show me nonstop flights from ent0:_ci to ent1:_ci	a
+show me the nonstop flights and fares from ent0:_ci to ent1:_ci	a
+show me the nonstop flights from ent0:_ci to ent1:_ci	a
+show me weekday flights from ent0:_ci to ent1:_ci one way	a
+show me weekday flights from ent0:_ci to ent1:_ci one way	a
+what airline is ent0:_al	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci in the ent0:_pd	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights from ent0:_ci to ent1:_ci	a
+list distance from airports to downtown in ent0:_ci	a
+list airports in ent0:_ci	a
+list airports in ent0:_ci	a
+list airports in ent0:_ci	a
+list airports	( _lambda $0 e ( _airport $0 ) )
+list airports in ent0:_ci	a
+list airports in ent0:_ci	a
+list the airports in ent0:_ci	a
+list ent0:_ci	a
+list ent0:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ap to ent0:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci with fares on ent0:_da	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights from ent0:_ci on ent0:_da ent0:_pd	a
+list type of aircraft for all flights from ent0:_ci	a
+list flights and fares from ent0:_ci to ent1:_ci round trip leaving ent0:_da returning next ent1:_da	a
+what class is ent0:_fb	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da of fare basis code of ent0:_fb	a
+list airfares for ent0:_cl round trip from ent0:_ci to ent1:_ci	a
+list ent0:_cl round trip airfare from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+list flights before ent0:_ti from ent0:_ci to ent1:_ci	a
+list flights from ent0:_ci to ent1:_ci before ent0:_ti	a
+list flights from ent0:_ci to ent1:_ci after ent0:_ti	a
+list airlines that fly from ent0:_ci to ent1:_ci	a
+list ent0:_al flights from ent0:_ci to ent1:_ci	a
+list seating capacities of ent0:_al flights from ent0:_ci to ent1:_ci	a
+list ent0:_al flights from ent0:_ci to ent1:_ci with aircraft type	a
+what ground transportation is there in ent0:_ci	a
+list ground transportation in ent0:_ci	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_da	a
+give me the flights from ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+give me the round trip flights from ent0:_ci to ent1:_ci next ent0:_da	a
+give me the fares for round trip flights from ent0:_ci to ent1:_ci next ent0:_da	a
+give me the flights and fares for a trip to ent0:_ci from ent1:_ci on ent0:_da	a
+give me the fares from ent0:_ci to ent1:_ci next ent0:_da	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_da or ent1:_da on ent0:_al	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_da on ent0:_al	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_al	a
+give me the flights from ent0:_ci to ent1:_ci	a
+give me the meal flights departing ent0:_pd ent0:_da ent1:_pd from ent0:_ci to ent1:_ci nonstop	a
+give me the flights from ent0:_ci to ent1:_ci ent0:_da ent0:_pd that have meals	a
+give me flights from ent0:_ci to ent1:_ci that have meals on ent0:_al	a
+give me the flights from ent0:_ci to ent1:_ci that have meals on ent0:_al ent0:_da ent0:_pd	a
+give me the flights from ent0:_ci to ent1:_ci on ent0:_al that have meals ent0:_pd ent0:_da ent1:_pd	a
+give me a combination of ent0:_al flights from ent0:_ci to ent1:_ci that have meals ent0:_pd ent0:_da ent1:_pd	a
+give me the ent0:_da ent0:_pd flights with meals from ent0:_ci to ent1:_ci	a
+give me the ent0:_da ent0:_pd flights on ent0:_al that have meals from ent0:_ci to ent1:_ci	a
+give me the ent0:_da ent0:_pd flights from ent0:_ci to ent1:_ci on ent0:_al that have meals	a
+give me the flights from ent0:_ci to ent1:_ci nonstop	a
+give me the flights from ent0:_ci to ent1:_ci nonstop	a
+give me the cheapest round trip flights from ent0:_ci to ent1:_ci around ent0:_mn ent0:_dn	a
+i need a ent0:_da flight from ent0:_ci to ent1:_ci	a
+i need a ent0:_da flight from ent0:_ci to ent1:_ci	a
+give me a flight from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+can i have a ent0:_pd flight from ent0:_ci to ent1:_ci please	a
+cheapest round trip fare from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+cheapest one way fare from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+flight number from ent0:_ci to ent1:_ci	a
+flight number from ent0:_ci to ent1:_ci	a
+ent0:_da flight on ent0:_al from ent0:_ci to ent1:_ci	a
+flight numbers on ent0:_al from ent0:_ci to ent1:_ci	a
+flight numbers from ent0:_ci to ent1:_ci	a
+flight numbers from ent0:_ci to ent1:_ci on ent0:_al	a
+flight numbers from ent0:_ci to ent1:_ci on ent0:_al	a
+is there a fare from ent0:_ci to ent1:_ci under ent0:_do	a
+how much is ent0:_cl flight from ent0:_ci to ent1:_ci	a
+ent0:_ci to ent1:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci after ent0:_ti	a
+ent0:_ci to ent1:_ci before ent0:_ti	a
+ent0:_ci to ent1:_ci ent0:_mn ent0:_dn	a
+cheapest fare from ent0:_ci to ent1:_ci on the ent0:_dn of ent0:_mn	a
+cheapest fare round trip from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+ent0:_ci to ent1:_ci on ent0:_da arriving before ent0:_ti	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci and memphis to ent2:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci and memphis to ent2:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci ent0:_pd ent0:_da	a
+ent0:_ci to ent1:_ci ent0:_pd on ent0:_da	a
+ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+ent0:_ci to ent1:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci on ent0:_da	a
+ent0:_ci to ent1:_ci on ent0:_da	a
+a flight from ent0:_ci to ent1:_ci arriving between ent0:_ti and ent1:_ti	a
+how many ent0:_al flights leave ent0:_ci	a
+how many ent0:_al flights leave ent0:_ci	a
+how many flights does ent0:_al have leaving ent0:_ap	a
+what cities does ent0:_al fly out of	a
+list the cities from which ent0:_al flies	a
+what cities does ent0:_al fly to	a
+i would like a connecting flight from ent0:_ci to ent1:_ci leaving after ent0:_ti	a
+please list all the flights from ent0:_ci to ent1:_ci	a
+tell me again the ent0:_pd flights on ent0:_al from ent0:_ci to ent1:_ci	a
+tell me the flights that leave ent0:_ci and go to ent1:_ci	a
+what is a ent0:_ac	a
+what type of plane is a ent0:_ac	a
+what is a ent0:_ac	a
+show me the airports serviced by ent0:_al	a
+show me the ent0:_cl and ent1:_cl flights between ent0:_ap and ent0:_ci	a
+show me the ent0:_cl and ent1:_cl flights from ent0:_ap to ent0:_ci	a
+show me the ent0:_cl and ent1:_cl flights from ent0:_ap to ent0:_ci	a
+are meals ever served on ent0:_al	a
+are ent0:_me served on ent0:_al	a
+show ent0:_al flights from ent0:_ap to ent0:_ci	a
+show ent0:_al from ent0:_ci to ent1:_ci	a
+show ent0:_al flights from ent0:_ci to ent1:_ci	a
+show ent0:_al flights from ent0:_ci to ent1:_ci	a
+what are the fares for flights between ent0:_ci and ent1:_ci	a
+what is the least expensive fare from ent0:_ci to ent1:_ci	a
+what are the lowest fares from ent0:_ci to ent1:_ci	a
+what is the lowest fare from ent0:_ap to ent0:_ci	a
+show me the cost of a ent0:_cl ticket from ent0:_ci to ent1:_ci and back	a
+what is the earliest arriving flight from ent0:_ci to ent1:_ci	a
+what is the earliest arriving flight between ent0:_ci and ent1:_ci	a
+what's the earliest arriving flight between ent0:_ci and ent1:_ci	a
+what is the earliest arriving flight from ent0:_ci to ent1:_ci	a
+what is the earliest arriving flight from ent0:_ci to ent1:_ci	a
+show me the flights between ent0:_ci and ent1:_ci	a
+show me the flights between ent0:_ci and ent1:_ci	a
+show me the flights from ent0:_ci to ent1:_ci	a
+list all flights leaving ent0:_ci between ent0:_ti and ent1:_ti	a
+what is the seating capacity on the ent0:_ac	a
+what is the seating capacity of a ent0:_ac	a
+what is the seating capacity of the ent0:_ac	a
+what is the seating capacity of the ent0:_ac	a
+what is the seating capacity of the type of ent0:_ac	a
+what is the seating capacity of an ent0:_ac	a
+what airlines serve ent0:_ci	a
+list the airlines with flights to or from ent0:_ci	a
+what airlines fly into ent0:_ci	a
+list all flights arriving in ent0:_ci between ent0:_ti and ent1:_ti	a
+what is the capacity of the ent0:_ac	a
+what is ent0:_ac	a
+what is seating capacity on the ent0:_ac	a
+what is the seating capacity of a ent0:_ac	a
+how many people will a ent0:_ac hold	a
+how many passengers can fly on a ent0:_ac	a
+list all of the daily flights arriving in ent0:_ci between ent0:_ti and ent1:_ti	a
+list all of the daily flights arriving in ent0:_ci from ent0:_ti to ent1:_ti	a
+show me all of the daily flights arriving in ent0:_ci between ent0:_ti and ent1:_ti	a
+what is the seating capacity of the ent0:_ac	a
+tell me about the ent0:_ac	a
+tell me about the ent0:_ac	a
+tell me about the type of ent0:_ac	a
+what is the seating capacity of the ent0:_ac	a
+what is the seating capacity of the ent0:_ac	a
+what is the seating capacity on the ent0:_ac	a
+list all flights arriving or leaving ent0:_ci between ent0:_ti and ent1:_ti	a
+list all flights arriving in ent0:_ci between ent0:_ti and ent1:_ti	a
+list all flights on all types of aircraft arriving in ent0:_ci between ent0:_ti and ent1:_ti	a
+please list all flights from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+please list the flights from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+is there ground transportation from the memphis airport into ent0:_ci town when if i arrive at 842 in the morning	a
+please list the flights from ent0:_ci to ent1:_ci on a ent0:_da ent0:_pd	a
+what is ent0:_ap	a
+what ground transportation is available from ent0:_ap into ent0:_ci	a
+is there ground transportation from ent0:_ap into ent0:_ci	a
+please list the ground transportation from ent0:_ap into ent0:_ci	a
+please list ground transportation from ent0:_ap into ent0:_ci	a
+show me the ent0:_pd flights from ent0:_ci to ent1:_ci	a
+give me the flights from ent0:_ci to ent1:_ci leaving after ent0:_ti on ent0:_da	a
+tell me about the ground transportation from ent0:_ap	a
+what are the nonstop flights from ent0:_ci to ent1:_ci leaving after ent0:_ti and arriving before ent1:_ti	a
+how many flights does ent0:_al have to ent0:_ci	a
+list the ent0:_al flights from ent0:_ci to anywhere	a
+list the ent0:_al flights from ent0:_ci	a
+which airline is ent0:_al	a
+list the ent0:_al flights arriving in ent0:_ci	a
+list the ent0:_al flights departing from ent0:_ci	a
+list all ent0:_al flights	a
+list all flights departing from ent0:_ci	a
+list the flights from ent0:_ci to ent1:_ci that leave before ent0:_ti	a
+list the cheapest fare from ent0:_ci to ent1:_ci	a
+i want a flight from ent0:_ci to ent1:_ci ent0:_pd in the ent1:_pd	a
+i would like a ent0:_pd flight from ent0:_ci to ent1:_ci	a
+i'd like a ent0:_pd flight from ent0:_ci to ent1:_ci	a
+i'd like an ent0:_pd flight from ent0:_ci to ent1:_ci	a
+i would like a flight that leaves on ent0:_da from ent0:_ci quebec to ent1:_ci	a
+i would like a flight on ent0:_da which leaves from ent0:_ci to ent1:_ci and that leaves in the ent0:_pd	a
+i would like to leave ent0:_da ent0:_pd from ent0:_ci to ent1:_ci	a
+i would like a flight on ent0:_da ent0:_pd from ent0:_ci to ent1:_ci	a
+i would like a flight from ent0:_ci to ent1:_ci on ent0:_al	a
+what type of aircraft is used for the ent0:_al flight leaving at ent0:_ti	a
+i need a flight leaving ent0:_ci to ent1:_ci leaving next ent0:_da and returning the following day	a
+what flights go from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci	a
+what type of ground transportation is there at the ent0:_ap	a
+is there taxi service at the ent0:_ap	a
+what are the flights from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ap to ent0:_ci on ent0:_al	a
+what are the flights on ent0:_da that travel from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci on ent0:_da	a
+what are the flights on ent0:_da leaving from ent0:_ci to ent1:_ci	a
+what are the flights from ent0:_ci to ent1:_ci leaving on ent0:_da	a
+what are the flights from ent0:_ci to ent1:_ci that stop in ent2:_ci	a
+i need a ent0:_pd flight from ent0:_ci to ent1:_ci on next ent0:_da	a
+how about a flight from ent0:_ci to ent1:_ci that leaves ent0:_da ent0:_pd	a
+and a flight from ent0:_ci to ent1:_ci that leaves ent0:_da ent0:_pd	a
+how about a flight leaving ent0:_da ent0:_pd from ent0:_ci to ent1:_ci	a
+i need a flight from ent0:_ci to ent0:_ap that arrives on ent0:_da before ent0:_ti	a
+i'd like a flight from ent0:_ci to ent0:_ap that arrives on ent0:_da before ent0:_ti	a
+i need a flight on ent0:_al from ent0:_ci to ent1:_ci that arrives around ent0:_ti	a
+i need a flight from ent0:_ci to ent1:_ci that goes through ent2:_ci	a
+what are the flights between ent0:_ci and ent1:_ci which leave after ent0:_ti	a
+what are the nonstop flights between ent0:_ci and ent1:_ci	a
+what are the nonstop flights between ent0:_ci and ent1:_ci	a
+what are the flights between ent0:_ci and ent1:_ci on ent0:_da	a
+what are the ent0:_al flights from ent0:_ci to ent1:_ci	a
+the flights from ent0:_ci to ent1:_ci that stop in ent2:_ci	a
+please list the flights from ent0:_ci to ent1:_ci	a
+please list the flights from ent0:_ci to ent1:_ci	a
+please list the flights from ent0:_ci to ent1:_ci	a
+please list the flights from ent0:_ci to ent1:_ci on ent0:_al	a
+please give me the flights from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+please give me the flights from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+please list all the flights from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+please list all the flights from ent0:_ci to ent1:_ci on ent0:_mn ent0:_dn	a
+i'd like to travel from ent0:_ci to ent1:_ci	a
+can you find me a flight from ent0:_ci to ent1:_ci next ent0:_da before arriving before ent0:_ti	a
+can you find me another flight from ent0:_ci to ent1:_ci on ent0:_da before ent0:_ti	a
+can you list all of the ent0:_al flights from ent0:_ci to ent1:_ci next ent0:_da arriving before ent0:_ti	a
+i'd like to fly from ent0:_ci to ent1:_ci on on ent0:_al arriving around ent0:_ti	a
+i'd like to travel from ent0:_ci to ent1:_ci next ent0:_da	a
+i'd like a round trip flight from ent0:_ci to ent1:_ci on ent0:_da ent0:_mn ent0:_dn arriving at ent0:_ti	a
+yes i'd like to find a flight from ent0:_ci to ent1:_ci stopping in ent2:_ci	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find flight from ent0:_ci to ent1:_ci on ent0:_da	a
+find ent0:_al flight from ent0:_ci to ent1:_ci around ent0:_ti	a
+please find a flight round trip from ent0:_ci to ent1:_ci with a stopover in ent2:_ci not exceeding the price of ent0:_do for ent0:_mn ent0:_dn ent0:_yr	a
+are there any flights on ent0:_mn ent0:_dn from ent0:_ci to ent1:_ci	a
+please find a flight from ent0:_ci to ent1:_ci that makes a stop in ent2:_ci on ent0:_mn ent0:_dn one way with ent0:_me	a
+like to book a flight from ent0:_ci to ent1:_ci	a
+show me all the flights from ent0:_ci to ent1:_ci	a
+find me all the flights from ent0:_ci to ent1:_ci	a
+now show me all the flights from ent0:_ci to ent1:_ci	a
+is there one airline that flies from ent0:_ci to ent1:_ci to ent2:_ci and from ent3:_ci to ent4:_ci	a
+find me all the round trip flights from ent0:_ci to ent1:_ci stopping in ent2:_ci	a
+i'd like to book two flights to ent0:_ci	a
+i want to book a flight from ent0:_ci to ent1:_ci	a
+tell me all the airports near ent0:_ci	a
+i'd like to book a flight from ent0:_ci to ent1:_ci on ent0:_al for next ent0:_da	a
+tell me all the airports in the ent0:_ci area	a
+please find all the flights from ent0:_ci to any airport in the ent1:_ci area that arrive next ent0:_da before ent0:_ti	a
+find me a flight from ent0:_ci to any airport in the ent1:_ci area	a
+i'd like to fly from ent0:_ci to ent1:_ci on ent0:_al	a
+i would like to book a round trip flight from ent0:_ci to ent1:_ci	a
+find me a flight that flies from ent0:_ci to ent1:_ci	a

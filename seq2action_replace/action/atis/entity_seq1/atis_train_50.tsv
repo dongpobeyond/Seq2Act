@@ -1,0 +1,50 @@
+list all the flights that arrive at ent0:_ap from various cities	a
+give me the flights leaving ent0:_ci ent0:_mn ent0:_dn coming back to ent1:_ci	a
+what flights from ent0:_ci to ent1:_ci on ent0:_da	a
+what is the most expensive one way fare from ent0:_ci to ent1:_ci on ent0:_al	a
+what flights return from ent0:_ci to ent1:_ci on a ent0:_da	a
+can you list all flights from ent0:_ci to ent1:_ci	a
+show me the flights from ent0:_ci that go to ent1:_ci and then ent2:_ci	a
+i'd like to see flights from ent0:_ci to ent1:_ci that arrive before ent0:_ti and i'd like to see flights from ent2:_ci to ent3:_ci that arrive before ent1:_ti	a
+do you have an ent0:_ti flight from ent0:_ci to ent1:_ci	a
+can you list all round trip flights from ent0:_ci to ent1:_ci and then to ent2:_ci	a
+show me the ent0:_al flights from ent0:_ci to ent1:_ci	a
+i would like a ent0:_al flight from ent0:_ci to ent1:_ci with a stopover in ent2:_ci please	a
+are there any nonstop flights leaving from ent0:_ci arriving in ent1:_ci on ent0:_mn ent0:_dn	a
+how can i get from ent0:_ci to ent1:_ci and back in the same day and have the most hours on the ground in ent2:_ci	a
+are there any flights between ent0:_ci and ent1:_ci using a ent0:_ac	a
+what does ent0:_rc stand for for meals	a
+ent0:_ci to ent1:_ci ent0:_da	a
+what are the flights from ent0:_ci to ent1:_ci returning on ent0:_da ent0:_mn ent0:_dn	a
+i need the cost of a ticket going from ent0:_ci to ent1:_ci a ent0:_cl ticket on ent0:_al	a
+is there a flight between ent0:_ci and ent1:_ci with a stopover at ent2:_ci	a
+list the takeoffs and landings at ent0:_ap	a
+what flights are there from ent0:_ci to ent1:_ci on ent0:_al	a
+is there limo service at ent0:_ap	a
+i need a flight from ent0:_ci to ent1:_ci ent0:_da ent0:_pd	a
+how much is a ent0:_cl ticket from ent0:_ci to ent1:_ci	a
+in ent0:_ci i would like information on ground transportation	a
+what flights go from ent0:_ci to ent1:_ci via ent2:_ci	a
+i'd like flights on ent0:_al from ent0:_ci to ent1:_ci arriving before ent0:_ti	a
+what airlines from ent0:_ci to ent1:_ci	a
+what flights do you have in the ent0:_pd of ent0:_mn ent0:_dn on ent0:_al from ent0:_ci to ent1:_ci and a stopover in ent2:_ci	a
+what is the cost of a round trip flight from ent0:_ci to ent1:_ci beginning on ent0:_mn ent0:_dn and returning on may sixth	a
+i would like a flight from ent0:_ci to ent1:_ci leaving at ent0:_ti on ent0:_mn ent0:_dn	a
+are there any nonstop flights from ent0:_ci to ent1:_ci that arrive before ent0:_ti	a
+i need a flight from ent0:_ci to ent1:_ci	a
+i'd like to fly nonstop from ent0:_ci to ent1:_ci and get there at ent0:_ti	a
+give me ent0:_da nonstop flights from ent0:_ci to ent1:_ci	a
+what is the type of aircraft for ent0:_al flight ent0:_fn	a
+can you give me information on transportation from the airport in philadelphia to downtown ent0:_ci	a
+list flights from ent0:_ci to ent1:_ci on ent0:_da	a
+what is the fare going from ent0:_ci to ent1:_ci one way on ent0:_mn ent0:_dn	a
+i would like to see the flights from ent0:_ci to ent1:_ci	a
+on ent0:_al how many flights leaving ent0:_ci on ent0:_mn ent0:_dn to ent1:_ci nonstop	a
+what is the earliest flight from ent0:_ci to ent1:_ci	a
+all flights from ent0:_ci to ent1:_ci	a
+flights from ent0:_ci to ent1:_ci	a
+show me the ent0:_cl fares from ent0:_ci to ent1:_ci	a
+find travel arrangements for a round trip flight from ent0:_ci to ent1:_ci	a
+show me flights from ent0:_ci to ent1:_ci on ent0:_da	a
+show me flights between ent0:_ci and ent1:_ci on ent0:_da	a
+what flights do you have from ent0:_ci to ent1:_ci	a

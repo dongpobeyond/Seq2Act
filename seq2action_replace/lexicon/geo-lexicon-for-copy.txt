@@ -1,0 +1,152 @@
+florida :- NP : florida:-:state
+mississippi :- NP : mississippi:-:state
+the united states :- NP : usa:-:country
+maine :- NP : maine:-:state
+the mississippi :- NP : mississippi:-:state
+length is the mississippi :- NP : mississippi:-:river
+us :- NP : usa:-:country
+alaska :- NP : alaska:-:state
+illinois :- NP : illinois:-:state
+colorado :- NP : colorado:-:state
+usa :- NP : usa:-:country
+the city denver :- NP : denver:-:city
+texas :- NP : texas:-:state
+rochester :- NP : rochester:-:city
+rivers named colorado :- NP : colorado:-:river
+rivers are called colorado :- NP : colorado:-:river
+the usa :- NP : usa:-:country
+the us :- NP : usa:-:country
+kentucky :- NP : kentucky:-:state
+oregon :- NP : oregon:-:state
+austin :- NP : austin:-:city
+south carolina :- NP : south_carolina:-:state
+austin texas :- NP : austin_tx:-:city
+the state of texas :- NP : texas:-:state
+atlanta :- NP : atlanta:-:city
+utah :- NP : utah:-:state
+sacramento :- NP : sacramento:-:state
+the state of oregon :- NP : oregon:-:state
+the mississippi river :- NP : mississippi:-:river
+long is the mississippi :- NP : mississippi:-:river
+guadalupe peak :- NP : guadalupe_peak:-:place
+new orleans :- NP : new_orleans:-:city
+mount mckinley :- NP : mount_mckinley:-:place
+california :- NP : california:-:state
+alabama :- NP : alabama:-:state
+continental us :- NP : usa:-:country
+mount whitney :- NP : mount_whitney:-:place
+iowa :- NP : iowa:-:state
+kansas :- NP : kansas:-:state
+vermont :- NP : vermont:-:state
+the mississippi runs :- NP : mississippi:-:river
+the mississippi run :- NP : mississippi:-:river
+the mississippi flow :- NP : mississippi:-:river
+the mississippi traverses :- NP : mississippi:-:river
+the mississippi traverse :- NP : mississippi:-:river
+georgia :- NP : georgia:-:state
+pennsylvania :- NP : pennsylvania:-:state
+nebraska :- NP : nebraska:-:state
+rhode island :- NP : rhode_island:-:state
+new york :- NP : new_york:-:state
+tennessee :- NP : tennessee:-:state
+arizona :- NP : arizona:-:state
+michigan :- NP : michigan:-:state
+montana :- NP : montana:-:state
+washington dc :- NP : washington_dc:-:city
+hawaii :- NP : hawaii:-:state
+san diego :- NP : san_diego:-:city
+delaware :- NP : delaware:-:state
+louisiana :- NP : louisiana:-:state
+north carolina :- NP : north_carolina:-:state
+des moines :- NP : des_moines:-:city
+wyoming :- NP : wyoming:-:state
+idaho :- NP : idaho:-:state
+springfield missouri :- NP : springfield_mo:-:city
+oklahoma :- NP : oklahoma:-:state
+america :- NP : usa:-:country
+washington :- NP : washington:-:state
+wisconsin :- NP : wisconsin:-:state
+indiana :- NP : indiana:-:state
+arkansas :- NP : arkansas:-:state
+the missouri river :- NP : missouri:-:river
+the missouri runs :- NP : missouri:-:river
+the missouri run :- NP : missouri:-:river
+the colorado river :- NP : colorado:-:river
+the potomac :- NP : potomac:-:river
+atlanta ga :- NP : atlanta:-:city
+ohio :- NP : ohio:-:state
+dallas :- NP : dallas:-:city
+san jose :- NP : san_jose:-:city
+the alabama state :- NP : alabama:-:state
+denver :- NP : denver:-:city
+massachusetts :- NP : massachusetts:-:state
+minnesota :- NP : minnesota:-:state
+west virginia :- NP : west_virginia:-:state
+springfield :- NP : springfield:-:city
+north dakota :- NP : north_dakota:-:state
+virginia :- NP : virginia:-:state
+south dakota :- NP : south_dakota:-:state
+springfield south dakota :- NP : springfield_sd:-:city
+boulder :- NP : boulder:-:city
+nevada :- NP : nevada:-:state
+fort wayne :- NP : fort_wayne:-:city
+indianapolis :- NP : indianapolis:-:city
+columbus :- NP : columbus:-:city
+montgomery :- NP : montgomery:-:city
+seattle washington :- NP : seattle_wa:-:city
+salem :- NP : salem:-:city
+albany :- NP : albany:-:city
+dover :- NP : dover:-:city
+new hampshire :- NP : new_hampshire:-:state
+new mexico :- NP : new_mexico:-:state
+maryland :- NP : maryland:-:state
+united states :- NP : usa:-:country
+missouri :- NP : missouri:-:state
+seattle :- NP : seattle:-:city
+the red :- NP : red:-:river
+death valley :- NP : death_valley:-:place
+the rio grande river :- NP : rio_grande:-:river
+flint :- NP : flint:-:city
+scotts valley :- NP : scotts_valley:-:city
+boston :- NP : boston:-:city
+the country :- NP : usa:-:country
+kalamazoo :- NP : kalamazoo:-:city
+spokane washington :- NP : spokane_wa:-:city
+rio grande :- NP : rio_grande:-:river
+pittsburgh :- NP : pittsburgh:-:city
+population of sacramento :- NP : sacramento:-:city
+sacramento is the capital of :- NP : sacramento:-:city
+the rio grande :- NP : rio_grande:-:river
+portland maine :- NP : portland_me:-:city
+houston :- NP : houston:-:city
+san francisco :- NP : san_francisco:-:city
+riverside :- NP : riverside:-:city
+the ohio river :- NP : ohio:-:river
+the ohio runs :- NP : ohio:-:river
+the ohio run :- NP : ohio:-:river
+boston massachusetts :- NP : boston_ma:-:city
+colorado river :- NP : colorado:-:river
+colorado rivers :- NP : colorado:-:river
+baton rouge :- NP : baton_rouge:-:city
+city of springfield :- NP : springfield:-:city
+erie pennsylvania :- NP : erie_pa:-:city
+portland :- NP : portland:-:city
+durham :- NP : durham:-:city
+new jersey :- NP : new_jersey:-:state
+new york state :- NP : new_york:-:state
+the ohio :- NP : ohio:-:state
+plano :- NP : plano:-:city
+the chattahoochee river :- NP : chattahoochee:-:river
+detroit :- NP : detroit:-:city
+the florida state :- NP : florida:-:state
+the delaware river :- NP : delaware:-:river
+miami :- NP : miami:-:city
+tempe arizona :- NP : tempe_az:-:city
+new york city :- NP : new_york:-:city
+city of new york :- NP : new_york:-:city
+tucson :- NP : tucson:-:city
+minneapolis minnesota :- NP : minneapolis_mn:-:city
+san antonio :- NP : san_antonio:-:city
+the north platte river :- NP : north_platte:-:river
+salt lake city :- NP : salt_lake_city:-:city
+chicago :- NP : chicago:-:city

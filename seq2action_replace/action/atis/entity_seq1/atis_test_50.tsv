@@ -1,0 +1,50 @@
+what flights go from ent0:_ci to ent1:_ci	a
+what flights go from ent0:_ci to ent1:_ci	a
+i need an ent0:_pd flight from ent0:_ci to ent1:_ci	a
+what types of ground transportation are available in ent0:_ci	a
+what flights go from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+is ground transportation available in ent0:_ci	a
+i need to fly from ent0:_ci to ent1:_ci on ent0:_da ent0:_pd	a
+flights from ent0:_ci to ent1:_ci	a
+flights from ent0:_ci to ent1:_ci	a
+flights from ent0:_ci to ent1:_ci	a
+i would like flight information from ent0:_ci to ent1:_ci	a
+could i have flight information on flights from ent0:_ci to ent1:_ci please	a
+could i have flight information on flights from ent0:_ci to ent1:_ci please	a
+i would like information on flights leaving from ent0:_ci to ent1:_ci	a
+i need information on flights from ent0:_ci to ent1:_ci that leave on a ent0:_da	a
+i need the flights from ent0:_ci to ent1:_ci on a ent0:_da	a
+i need the fares on flights from ent0:_ci to ent1:_ci on a ent0:_da	a
+i want to go from ent0:_ci to ent1:_ci on a ent0:_da	a
+i need a flight from ent0:_ci to ent1:_ci that leaves before ent0:_ti see if too much information	a
+get fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get ent0:_da fares from ent0:_ci to ent1:_ci	a
+get the ent0:_da fare from ent0:_ci to ent1:_ci	a
+list ent0:_da flights from ent0:_ci to ent1:_ci	a
+list ent0:_da flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent0:_ap	a
+list flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent1:_ci	a
+get flights from ent0:_ci to ent1:_ci	a
+get last flight from ent0:_ci to ent1:_ci on ent0:_da or first flight from ent2:_ci to ent3:_ci on ent1:_da	a
+get first flight from ent0:_ci to ent1:_ci on ent0:_da	a
+get last flight from ent0:_ci to ent1:_ci on ent0:_da	a
+list last ent0:_da flight from ent0:_ci to ent1:_ci	a
+get flight from ent0:_ci to ent1:_ci stopping at ent0:_ap	a
+get flights between ent0:_ci and ent1:_ci	a
+i need a flight from ent0:_ci to ent1:_ci leaving ent0:_da before ent0:_ti	a
+i need a flight departing from ent0:_ci to ent1:_ci leaving ent0:_da before ent0:_ti	a
+is there ground transportation available at the ent0:_ap	a
+i need flight information for a flight departing from ent0:_ci to ent1:_ci departing ent0:_da at ent0:_ti	a
+i need flight information for a flight departing from ent0:_ci to ent1:_ci ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci going back to ent1:_ci ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci to ent1:_ci on ent0:_da after ent0:_ti	a
+i need flight information for flights departing from ent0:_ci to ent1:_ci on ent0:_da after ent0:_ti	a
+i need a flight from ent0:_ci to ent1:_ci on ent0:_da	a
+is there ground transportation available at the ent0:_ap	a
+i need flight and airline information for a flight from ent0:_ci to ent1:_ci on ent0:_da departing after ent0:_ti	a
+is there ground transportation available at the ent0:_ap	a
+i need a flight from ent0:_ci to ent1:_ci departing ent0:_da after ent0:_ti	a

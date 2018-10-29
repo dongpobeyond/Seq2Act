@@ -1,0 +1,122 @@
+entity:	rc
+entity:	me
+entity:	pd
+entity:	yr
+entity:	mf
+entity:	dc
+entity:	i
+entity:	ap
+entity:	ci
+entity:	da
+entity:	ac
+entity:	dn
+entity:	al
+entity:	mn
+entity:	do
+entity:	fn
+entity:	cl
+entity:	st
+entity:	ti
+entity:	fb
+entity:	hr
+unary:	_class_of_service
+unary:	_has_stops
+unary:	_aircraft_code:_t
+unary:	_turboprop
+unary:	_stops
+unary:	_economy
+unary:	_overnight
+unary:	_aircraft
+unary:	_daily
+unary:	_arrival_time
+unary:	_meal
+unary:	_weekday
+unary:	_restriction_code
+unary:	_tomorrow
+unary:	_taxi
+unary:	_nonstop
+unary:	_jet
+unary:	_airline_name
+unary:	_abbrev
+unary:	_tomorrow_arrival
+unary:	_connecting
+unary:	_booking_class:_t
+unary:	_minutes_distant
+unary:	_cost
+unary:	_booking_class
+unary:	_aircraft_code
+unary:	_discounted
+unary:	_flight_number
+unary:	_round_trip
+unary:	_ground_fare
+unary:	_time_zone_code
+unary:	_meal_code
+unary:	_rapid_transit
+unary:	_airport
+unary:	_capacity
+unary:	_ground_transport
+unary:	_time_elapsed
+unary:	_today
+unary:	_air_taxi_operation
+unary:	_airline
+unary:	_miles_distant
+unary:	_fare
+unary:	_oneway
+unary:	_day_after_tomorrow
+unary:	_rental_car
+unary:	_flight
+unary:	_has_meal
+unary:	_tonight
+unary:	_departure_time
+unary:	_meal:_t
+unary:	_stop_arrival_time
+unary:	_city
+unary:	_airline:_e
+unary:	_fare_basis_code
+unary:	_limousine
+binary:	type:flight	_services	type:
+binary:	type:flight	_approx_arrival_time	type:
+binary:	type:flight	_stops	type:
+binary:	type:flight	_before_day	type:
+binary:	type:flight	_month_arrival	type:
+binary:	type:flight	_aircraft	type:
+binary:	type:flight	_to_city	type:
+binary:	type:flight	_arrival_time	type:
+binary:	type:flight	_meal	type:
+binary:	type:flight	_day_number_return	type:
+binary:	type:flight	_after_day	type:
+binary:	type:flight	_arrival_month	type:
+binary:	type:flight	_day_arrival	type:
+binary:	type:flight	_day_return	type:
+binary:	type:flight	_month	type:
+binary:	type:flight	_named	type:
+binary:	type:flight	_day	type:
+binary:	type:flight	_minutes_distant	type:
+binary:	type:flight	_booking_class	type:
+binary:	type:flight	_from	type:
+binary:	type:flight	_day_number	type:
+binary:	type:flight	_aircraft_code	type:
+binary:	type:flight	_year	type:
+binary:	type:flight	_flight_number	type:
+binary:	type:flight	_stop	type:
+binary:	type:flight	_during_day_arrival	type:
+binary:	type:flight	_day_number_arrival	type:
+binary:	type:flight	_airport	type:
+binary:	type:flight	_from_airport	type:
+binary:	type:flight	_approx_departure_time	type:
+binary:	type:flight	_minimum_connection_time	type:
+binary:	type:flight	_time_elapsed	type:
+binary:	type:flight	_manufacturer	type:
+binary:	type:flight	_miles_distant	type:
+binary:	type:flight	_month_return	type:
+binary:	type:flight	_next_days	type:
+binary:	type:flight	_fare	type:
+binary:	type:flight	_during_day	type:
+binary:	type:flight	_to	type:
+binary:	type:flight	_loc:_t	type:
+binary:	type:flight	_departure_time	type:
+binary:	type:flight	_airline	type:
+binary:	type:flight	_class_type	type:
+binary:	type:flight	_approx_return_time	type:
+binary:	type:flight	_days_from_today	type:
+binary:	type:flight	_fare_basis_code	type:
