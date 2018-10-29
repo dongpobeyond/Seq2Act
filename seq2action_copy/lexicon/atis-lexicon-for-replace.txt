@@ -1,0 +1,1007 @@
+ontario california :- NP : ontario:_ci
+orlando florida :- NP : orlando:_ci
+boston logan :- NP : bos:_ap
+dl :- NP : dl:_al
+montreal canada  :- NP : montreal:_ci
+montreal quebec  :- NP : montreal:_ci
+boeing :- NP : boeing:_mf
+columbus ohio  :- NP : columbus:_ci
+kansas city missouri  :- NP : kansas_city:_ci
+salt lake city utah :- NP : salt_lake_city:_ci
+fort worth dallas :- NP : fort_worth:_ci
+long beach :- NP : long_beach:_ci
+orlando :- NP : orlando:_ci
+toronto :- NP : toronto:_ci
+city of boston :- NP : boston:_ci
+charlotte :- NP : charlotte:_ci
+indianapolis :- NP : indianapolis:_ci
+indianapolis indiana :- NP : indianapolis:_ci
+newark :- NP : newark:_ci
+newark new jersey :- NP : newark:_ci
+st. louis :- NP : st_louis:_ci
+ontario :- NP : ontario:_ci
+washington dc :- NP : washington:_ci
+cincinnati :- NP : cincinnati:_ci
+atlanta :- NP : atlanta:_ci
+atlanta georgia :- NP : atlanta:_ci
+new york's :- NP : new_york:_ci
+dc :- NP : washington:_ci
+dc baltimore :- NP : washington:_ci
+houston :- NP : houston:_ci
+houston texas :- NP : houston:_ci
+westchester county :- NP : westchester_county:_ci
+phoenix :- NP : phoenix:_ci
+phoenix arizona :- NP : phoenix:_ci
+chicago :- NP : chicago:_ci
+memphis :- NP : memphis:_ci
+washington :- NP : washington:_ci
+detroit :- NP : detroit:_ci
+philly :- NP : philadelphia:_ci
+tampa :- NP : tampa:_ci
+salt lake city :- NP : salt_lake_city:_ci
+dallas fort worth :- NP : dallas:_ci
+dallas fort worth :- NP : dallas:_ap
+boston's :- NP : boston:_ci
+philadelphia :- NP : philadelphia:_ci
+the city of philadelphia :- NP : philadelphia:_ci
+philadelphia pennsylvania :- NP : philadelphia:_ci
+vegas :- NP : las_vegas:_ci
+miami :- NP : miami:_ci
+miami florida :- NP : miami:_ci
+san diego :- NP : san_diego:_ci
+san diego california :- NP : san_diego:_ci
+san francisco :- NP : san_francisco:_ci
+san francisco :- NP : sfo:_ap
+dallas :- NP : dallas:_ci
+dallas texas :- NP : dallas:_ci
+denver :- NP : denver:_ci
+denver colorado :- NP : denver:_ci
+boston :- NP : boston:_ci
+city of altanta :- NP : atlanta:_ci
+nashville :- NP : nashville:_ci
+nashville tennessee :- NP : nashville:_ci
+salt lake :- NP : salt_lake_city:_ci
+st. paul :- NP : st_paul:_ci
+st. paul minnesota :- NP : st_paul:_ci
+minnesota :- NP : minnesota:_st
+fort worth :- NP : fort_worth:_ci
+fort worth texas :- NP : fort_worth:_ci
+baltimore :- NP : baltimore:_ci
+baltimore washington :- NP : baltimore:_ci
+new york :- NP : new_york:_ci
+san jose :- NP : san_jose:_ci
+san jose california :- NP : san_jose:_ci
+columbus :- NP : columbus:_ci
+new york city :- NP : new_york:_ci
+minneapolis :- NP : minneapolis:_ci
+burbank :- NP : burbank:_ci
+la :- NP : los_angeles:_ci
+los angeles :- NP : los_angeles:_ci
+houston's :- NP : houston:_ci
+westchester :- NP : westchester_county:_ci
+kansas city :- NP : kansas_city:_ci
+st. petersburg :- NP : st_petersburg:_ci
+st petersburg :- NP : st_petersburg:_ci
+montreal :- NP : montreal:_ci
+city in dallas :- NP : dallas:_ci
+tacoma :- NP : tacoma:_ci
+las vegas :- NP : las_vegas:_ci
+cleveland :- NP : cleveland:_ci
+oakland :- NP : oakland:_ci
+oakland california :- NP : oakland:_ci
+milwaukee :- NP : milwaukee:_ci
+seattle :- NP : seattle:_ci
+pittsburgh :- NP : pittsburgh:_ci
+pittsburgh pennsylvania  :- NP : pittsburgh:_ci
+pittsburgh airport :- NP : pit:_ap
+pittsburgh airport :- NP : pittsburgh:_ap
+oakland airport :- NP : oak:_ap
+hopkins international :- NP : cle:_ap
+mccarran international :- NP : las:_ap
+metropolitan oakland international :- NP : oak:_ap
+baltimore airport :- NP : bwi:_ap
+baltimore washington airport :- NP : bwi:_ap
+lester pearson airport :- NP : yyz:_ap
+memphis international :- NP : mem:_ap
+atlanta airport :- NP : atl:_ap
+atlanta airport :- NP : atlanta:_ap
+atlanta's airport :- NP : atl:_ap
+port columbus international :- NP : cmh:_ap
+kansas city airport :- NP : mci:_ap
+dulles international :- NP : iad:_ap
+san francisco international airport :- NP : sfo:_ap
+sky harbor international :- NP : phx:_ap
+orlando airport :- NP : mco:_ap
+nashville airport :- NP : bna:_ap
+los angelas airport :- NP : lga:_ap
+lax :- NP : lax:_ap
+lga :- NP : lga:_ap
+los angeles international :- NP : lga:_ap
+salt lake city international :- NP : slc:_ap
+greater pittsburgh international :- NP : pit:_ap
+milwaukee airport :- NP : mke:_ap
+dallas fort worth airport :- NP : dfw:_ap
+los angeles international airport :- NP : lga:_ap
+columbus airport :- NP : cmh:_ap
+memphis airport :- NP : mem:_ap
+la guardia :- NP : lga:_ap
+tampa airport :- NP : tpa:_ap
+washington national :- NP : dca:_ap
+lester b. pearson international :- NP : yyz:_ap
+metropolitan wayne county :- NP : dtw:_ap
+dtw :- NP : dtw:_ap
+lindbergh field/san diego international :- NP : san:_ap
+miami international :- NP : mia:_ap
+ontario airport :- NP : ont:_ap
+love field :- NP : dal:_ap
+ontario international :- NP : ont:_ap
+salt lake city airport :- NP : slc:_ap
+seattle/tacoma international :- NP : sea:_ap
+hobby :- NP : hou:_ap
+dallas/fort worth international :- NP : dfw:_ap
+indianapolis airport :- NP : ind:_ap
+o'hare airport :- NP : ord:_ap
+ord  :- NP : ord:_ap
+toronto airport :- NP : yyz:_ap
+general mitchell airport :- NP : mke:_ap
+san jose airport :- NP : sjc:_ap
+philadelphia international :- NP : phl:_ap
+oak :- NP : oak:_ap
+tampa international :- NP : tpa:_ap
+tpa :- NP : tpa:_ap
+fort worth airport :- NP : dfw:_ap
+cincinnati/northern kentucky intl. :- NP : cvg:_ap
+cvg :- NP : cvg:_ap
+tacoma airport :- NP : sea:_ap
+midway :- NP : midway:_ap
+midway :- NP : ml:_al
+houston airport :- NP : hou:_ap
+o'hare :- NP : ord:_ap
+charlotte/douglas international :- NP : clt:_ap
+general mitchell international :- NP : mke:_ap
+indianapolis international :- NP : ind:_ap
+dallas airport :- NP : dfw:_ap
+dallas airport :- NP : dallas:_ap
+phoenix airport :- NP : phx:_ap
+phoenix airport :- NP : phoenix:_ap
+boston's logan airport :- NP : bos:_ap
+dulles airport :- NP : iad:_ap
+denver airport :- NP : den:_ap
+the airport at denver :- NP : den:_ap
+general mitchell :- NP : mke:_ap
+detroit city :- NP : det:_ap
+orlando international :- NP : mco:_ap
+washington airport :- NP : bwi:_ap
+william b. hartsfield atlanta intl. :- NP : atl:_ap
+atl :- NP : atl:_ap
+st. petersburg/clearwater international :- NP : pie:_ap
+lambert st. louis international :- NP : stl:_ap
+dfw :- NP : dfw:_ap
+toronto island :- NP : ytz:_ap
+philadelphia airport :- NP : phl:_ap
+the airport in philadelphia :- NP : phl:_ap
+baltimore/washington international :- NP : bwi:_ap
+john f. kennedy international :- NP : jfk:_ap
+minneapolis/st. paul international :- NP : msp:_ap
+toronto international airport :- NP : yyz:_ap
+dallas fort worth international :- NP : dfw:_ap
+logan airport :- NP : bos:_ap
+miami airport :- NP : mia:_ap
+dallas fort worth international airport :- NP : dfw:_ap
+minneapolis airport :- NP : mso:_ap
+lester pearson :- NP : yyz:_ap
+toronto international :- NP : yyz:_ap
+kennedy :- NP : jfk:_ap
+stapleton airport :- NP : den:_ap
+stapleton airport :- NP : stapelton:_ap
+san diego airport :- NP : san:_ap
+las vegas airport :- NP : las:_ap
+logan :- NP : bos:_ap
+o'hare international :- NP : ord:_ap
+la guardia airport :- NP : lga:_ap
+philadelphia international airport :- NP : phl:_ap
+san jose international :- NP : sjc:_ap
+stapleton international airport :- NP : den:_ap
+san francisco international :- NP : sfo:_ap
+bwi :- NP : bwi:_ap
+general mitchell international airport :- NP : mke:_ap
+dulles :- NP : iad:_ap
+nashville international :- NP : bna:_ap
+kennedy airport :- NP : jfk:_ap
+jfk :- NP : jfk:_ap
+houston intercontinental :- NP : iah:_ap
+hartfield :- NP : atl:_ap
+stapleton international :- NP : den:_ap
+san francisco airport :- NP : sfo:_ap
+logan international :- NP : bos:_ap
+seattle airport :- NP : sea:_ap
+newark international :- NP : ewr:_ap
+lester b pearson international airport :- NP : yyz:_ap
+boston airport :- NP : bos:_ap
+boston airport :- NP : boston:_ap
+st. paul airport :- NP : msp:_ap
+kansas city international :- NP : mci:_ap
+st. petersburg airport :- NP : pie:_ap
+st. petersburg airport :- NP : st_petersburg:_ap
+charlotte airport :- NP : clt:_ap
+newark airport :- NP : ewr:_ap
+ewr :- NP : ewr:_ap
+breakfast :- NP : breakfast:_me
+breakfast :- NP : breakfast:_pd
+snacks :- NP : snack:_me
+dinner meal :- NP : dinner:_me
+snack :- NP : snack:_me
+lunch :- NP : lunch:_me
+lunch :- NP : 1400:_ti
+dinner :- NP : dinner:_me
+supper :- NP : dinner:_me
+sunday :- NP : sunday:_da
+monday's :- NP : monday:_da
+monday :- NP : monday:_da
+friday's :- NP : friday:_da
+tuesday's :- NP : tuesday:_da
+thursdays :- NP : thursday:_da
+tuesdays :- NP : tuesday:_da
+thursday's :- NP : thursday:_da
+wednesday's :- NP : wednesday:_da
+fridays :- NP : friday:_da
+friday :- NP : friday:_da
+tuesday :- NP : tuesday:_da
+saturday's :- NP : saturday:_da
+wednesdays :- NP : wednesday:_da
+sunday's :- NP : sunday:_da
+sundays :- NP : sunday:_da
+saturday :- NP : saturday:_da
+wednesday :- NP : wednesday:_da
+thursday :- NP : thursday:_da
+mondays :- NP : monday:_da
+saturdays :- NP : saturday:_da
+october :- NP : october:_mn
+may :- NP : may:_mn
+july :- NP : july:_mn
+june :- NP : june:_mn
+april :- NP : april:_mn
+march :- NP : march:_mn
+december :- NP : december:_mn
+january :- NP : january:_mn
+august :- NP : august:_mn
+february :- NP : february:_mn
+november :- NP : november:_mn
+september :- NP : september:_mn
+twelfth :- NP : 12:_dn
+fourteen :- NP : 14:_dn
+fifteen :- NP : 15:_dn
+second  :- NP : 2:_dn
+twenty three :- NP : 23:_dn
+third :- NP : 3:_dn
+twentieth :- NP : 20:_dn
+sixteenth :- NP : 16:_dn
+twenty sixth :- NP : 26:_dn
+eighteenth :- NP : 18:_dn
+sixteen :- NP : 16:_dn
+tenth :- NP : 10:_dn
+twenty six :- NP : 26:_dn
+twenty second :- NP : 22:_dn
+eighth :- NP : 8:_dn
+ninth :- NP : 9:_dn
+twenty fourth :- NP : 24:_dn
+seventeenth :- NP : 17:_dn
+twenty seven :- NP : 27:_dn
+twenty seventh :- NP : 27:_dn
+thirty first :- NP : 31:_dn
+one :- NP : 1:_dn
+one :- NP : 1:_i
+one :- NP : 1300:_ti
+twelve :- NP : 12:_dn
+four :- NP : 4:_dn
+seventeen :- NP : 17:_dn
+twenty :- NP : 20:_dn
+twenty fifth :- NP : 25:_dn
+twenty eight :- NP : 28:_dn
+twenty four :- NP : 24:_dn
+fifteenth :- NP : 15:_dn
+three :- NP : 3:_dn
+six :- NP : 6:_dn
+eleventh :- NP : 11:_dn
+thirteen :- NP : 13:_dn
+twenty eighth :- NP : 28:_dn
+fifth :- NP : 5:_dn
+twenty ninth :- NP : 29:_dn
+seven :- NP : 7:_dn
+eleven :- NP : 11:_dn
+seventh :- NP : 7:_dn
+thirty one :- NP : 31:_dn
+thirtieth :- NP : 30:_dn
+twenty third :- NP : 23:_dn
+fourth :- NP : 4:_dn
+nine :- NP : 9:_dn
+first :- NP : 1:_dn
+nineteen :- NP : 19:_dn
+five :- NP : 5:_dn
+twenty nine :- NP : 29:_dn
+sixth :- NP : 6:_dn
+fourteenth :- NP : 14:_dn
+twenty five :- NP : 25:_dn
+thirteenth :- NP : 13:_dn
+twenty two :- NP : 22:_dn
+eighteen :- NP : 18:_dn
+twenty one :- NP : 21:_dn
+eight :- NP : 8:_dn
+eight :- NP : august:_mn
+nineteenth :- NP : 19:_dn
+twenty first :- NP : 21:_dn
+early :- NP : early:_pd
+afternoons :- NP : afternoon:_pd
+dinnertime :- NP : dinnertime:_pd
+dinnertime :- NP : 1700:_ti
+lunch time :- NP : lunchtime:_pd
+lunch time :- NP : 1400:_ti
+day time :- NP : daytime:_pd
+mealtime :- NP : mealtime:_pd
+evenings :- NP : evening:_pd
+lunchtime :- NP : lunchtime:_pd
+late morning :- NP : late_morning:_pd
+midnight :- NP : midnight:_pd
+midnight :- NP : 0:_ti
+midnight :- NP : 2400:_ti
+mid-morning :- NP : mid_morning:_pd
+am :- NP : morning:_pd
+dinner time :- NP : dinnertime:_pd
+night :- NP : late:_pd
+nights :- NP : late:_pd
+mid-afternoon :- NP : mid_afternoon:_pd
+evening :- NP : evening:_pd
+evening :- NP : 1800:_ti
+nighttime :- NP : late:_pd
+mornings :- NP : morning:_pd
+morning :- NP : morning:_pd
+afternoon :- NP : afternoon:_pd
+pm :- NP : pm:_pd
+midday :- NP : midday:_pd
+nineteen ninety five :- NP : 1995:_yr
+nineteen ninety one :- NP : 1991:_yr
+nineteen ninety two :- NP : 1992:_yr
+nineteen ninety three :- NP : 1993:_yr
+1991 :- NP : 1991:_yr
+1996 :- NP : 1996:_yr
+nineteen ninety four :- NP : 1994:_yr
+1999 :- NP : 1999:_yr
+nineteen ninety six :- NP : 1996:_yr
+nineteen ninety nine :- NP : 1999:_yr
+1993 :- NP : 1993:_yr
+1995 :- NP : 1995:_yr
+nineteen ninety seven :- NP : 1997:_yr
+1994 :- NP : 1994:_yr
+1997 :- NP : 1997:_yr
+1998 :- NP : 1998:_yr
+1992 :- NP : 1992:_yr
+nineteen ninety eight :- NP : 1998:_yr
+united airlines :- NP : ua:_al
+united air :- NP : ua:_al
+ua :- NP : ua:_al
+united airline :- NP : ua:_al
+us airline :- NP : us:_al
+us airlines :- NP : us:_al
+usa air :- NP : us:_al
+us air :- NP : us:_al
+us air :- NP : usair:_al
+kw :- NP : kw:_al
+delta airline :- NP : dl:_al
+delta :- NP : dl:_al
+delta :- NP : delta:_al
+delta air lines :- NP : dl:_al
+lufthansa airlines :- NP : lh:_al
+eastern airlines :- NP : ea:_al
+ea :- NP : ea:_al
+eastern airline :- NP : ea:_al
+eastern :- NP : ea:_al
+eastern air :- NP : ea:_al
+nationair :- NP : nx:_al
+northwest :- NP : nw:_al
+nw :- NP : nw:_al
+northwest airlines :- NP : nw:_al
+northwest airline :- NP : nw:_al
+aa :- NP : aa:_al
+american airline :- NP : aa:_al
+code ff  :- NP : ff:_al
+tower air :- NP : ff:_al
+midwest express airlines :- NP : yx:_al
+midwest express  :- NP : yx:_al
+midwest airlines :- NP : yx:_al
+midwest airline :- NP : yx:_al
+midwest :- NP : yx:_al
+midway airlines :- NP : ml:_al
+continental :- NP : co:_al
+usair :- NP : us:_al
+american :- NP : aa:_al
+america west airline :- NP : america_west_airlines:_al
+canadian airline :- NP : cp:_al
+alaska airline :- NP : as:_al
+as :- NP : as:_al
+alaska airlines :- NP : as:_al
+southwest airlines :- NP : wn:_al
+america west airlines :- NP : america_west_airlines:_al
+trans world airlines :- NP : tw:_al
+trans world express :- NP : tw:_al
+trans world airline :- NP : tw:_al
+delta airlines :- NP : dl:_al
+southwest :- NP : wn:_al
+delta's :- NP : dl:_al
+southwest airline :- NP : wn:_al
+american airlines :- NP : aa:_al
+american's :- NP : aa:_al
+twa :- NP : tw:_al
+united :- NP : ua:_al
+co :- NP : co:_al
+continental airlines :- NP : co:_al
+continental airline :- NP : co:_al
+canada airlines :- NP : cp:_al
+canadian airlines international :- NP : cp:_al
+canadian airlines international :- NP : canadian_airlines_international:_al
+canada airline :- NP : cp:_al
+air canada :- NP : ac:_al
+qlx :- NP : qlx:_fb
+yn :- NP : yn:_fb
+service class yn :- NP : yn:_fb
+mh :- NP : mh:_fb
+cn :- NP : cn:_fb
+qx fare :- NP : qx:_fb
+bhw :- NP : bhw:_fb
+hlx :- NP : hlx:_fb
+bx :- NP : bx:_fb
+q fare :- NP : q:_fb
+j :- NP : j:_fb
+qx fares :- NP : qx:_fb
+fare code qx :- NP : qx:_fb
+fare code m :- NP : m:_fb
+y :- NP : y:_fb
+fare code y :- NP : y:_fb
+lx :- NP : lx:_fb
+u :- NP : u:_fb
+vw :- NP : vw:_fb
+yl :- NP : yl:_fb
+k :- NP : k:_fb
+qh :- NP : qh:_fb
+hhx :- NP : hhx:_fb
+kh :- NP : kh:_fb
+hlw :- NP : hlw:_fb
+blx :- NP : blx:_fb
+vhw :- NP : vhw:_fb
+ml :- NP : ml:_fb
+hhw :- NP : hhw:_fb
+mow :- NP : mow:_fb
+v :- NP : v:_fb
+s :- NP : s:_fb
+qow :- NP : qow:_fb
+c :- NP : c:_fb
+bow :- NP : bow:_fb
+b :- NP : b:_fb
+q :- NP : q:_fb
+fare code q :- NP : q:_fb
+qx :- NP : qx:_fb
+yh :- NP : yh:_fb
+qox :- NP : qox:_fb
+yw :- NP : yw:_fb
+q fares :- NP : q:_fb
+box :- NP : box:_fb
+qhx :- NP : qhx:_fb
+qo :- NP : qo:_fb
+fare code qo :- NP : qo:_fb
+kl :- NP : kl:_fb
+qlw :- NP : qlw:_fb
+qhw :- NP : qhw:_fb
+hl :- NP : hl:_fb
+vhx :- NP : vhx:_fb
+h :- NP : h:_fb
+fare code h :- NP : h:_fb
+bh :- NP : bh:_fb
+fare code bh :- NP : bh:_fb
+bn :- NP : bn:_fb
+f :- NP : f:_fb
+fare code f :- NP : f:_fb
+hox :- NP : hox:_fb
+qw :- NP : qw:_fb
+fn :- NP : fn:_fb
+code hp :- NP : hp:_al
+hp :- NP : hp:_al
+america west :- NP : hp:_al
+blw :- NP : blw:_fb
+kn :- NP : kn:_fb
+yx :- NP : yx:_al
+vx :- NP : vx:_fb
+bw :- NP : bw:_fb
+bhx :- NP : bhx:_fb
+p :- NP : p:_fb
+iq :- NP : iq:_fb
+bl :- NP : bl:_fb
+hh :- NP : hh:_fb
+first type :- NP : first:_cl
+standard :- NP : standard:_cl
+first class :- NP : first:_cl
+first class service :- NP : first:_cl
+standard type :- NP : standard:_cl
+shuttle type :- NP : shuttle:_cl
+standard class :- NP : standard:_cl
+coach type :- NP : coach:_cl
+business :- NP : business:_cl
+business type :- NP : business:_cl
+thrift :- NP : thrift:_cl
+shuttle :- NP : shuttle:_cl
+business class :- NP : business:_cl
+business class service :- NP : business:_cl
+coach :- NP : coach:_cl
+coach class :- NP : coach:_cl
+thrift type :- NP : thrift:_cl
+shuttle class :- NP : shuttle:_cl
+763 :- NP : 763:_ac
+a320 :- NP : a320:_ac
+brasilia :- NP : brasilia:_ac
+734 :- NP : 734:_ac
+727 :- NP : 727:_ac
+737 :- NP : 737:_ac
+320 :- NP : 320:_ac
+ab3 :- NP : ab3:_ac
+767 :- NP : 767:_ac
+at7 :- NP : at7:_ac
+metro :- NP : metro:_ac
+dc8 :- NP : dc8:_ac
+co1209 :- NP : co1209:_ac
+a310 :- NP : a310:_ac
+md11 :- NP : md11:_ac
+md80 :- NP : md80:_ac
+l15 :- NP : l15:_ac
+310 :- NP : 310:_ac
+228 :- NP : 228:_ac
+72s :- NP : 72s:_ac
+aircraft 72s :- NP : 72s:_ac
+74l :- NP : 74l:_ac
+dh7 :- NP : dh7:_ac
+em2 :- NP : em2:_ac
+a300 :- NP : a300:_ac
+744 :- NP : 744:_ac
+m80 :- NP : m80:_ac
+aircraft m80 :- NP : m80:_ac
+m80 aircraft :- NP : m80:_ac
+aircraft called an m80 :- NP : m80:_ac
+d1m :- NP : d1m:_ac
+j31 :- NP : j31:_ac
+j31 aircraft :- NP : j31:_ac
+do8 :- NP : do8:_ac
+dhc7 :- NP : dhc7:_ac
+l10 :- NP : l10:_ac
+735 :- NP : 735:_ac
+1900 :- NP : 1900:_ac
+1900 :- NP : 1900:_ti
+f28 :- NP : f28:_ac
+dc9 :- NP : dc9:_ac
+d9s :- NP : d9s:_ac
+swm :- NP : swm:_ac
+d8s :- NP : d8s:_ac
+jetstream :- NP : jetstream:_ac
+sf340 :- NP : sf340:_ac
+360 :- NP : 360:_ac
+m11 :- NP : m11:_ac
+dh8 :- NP : dh8:_ac
+be1 :- NP : be1:_ac
+f27 :- NP : f27:_ac
+atr :- NP : atr:_ac
+d10 :- NP : d10:_ac
+sh6 :- NP : sh6:_ac
+733 :- NP : 733:_ac
+aircraft 733 :- NP : 733:_ac
+c99 :- NP : c99:_ac
+74m :- NP : 74m:_ac
+747 :- NP : 747:_ac
+757 :- NP : 757:_ac
+be9 :- NP : be9:_ac
+146 :- NP : 146:_ac
+73s :- NP : 73s:_ac
+aircraft 73s :- NP : 73s:_ac
+atp :- NP : atp:_ac
+dhc8 :- NP : dhc8:_ac
+l1011 :- NP : l1011:_ac
+sf3 :- NP : sf3:_ac
+dc10 :- NP : dc10:_ac
+atr72 :- NP : atr72:_ac
+497776 :- NP : 497:_fn
+21 :- NP : 21:_fn
+71 :- NP : 71:_fn
+139 :- NP : 139:_fn
+1055 :- NP : 1055:_fn
+825 :- NP : 825:_fn
+771 :- NP : 771:_fn
+1059 :- NP : 1059:_fn
+4400 :- NP : 4400:_fn
+402 :- NP : 402:_fn
+137338 :- NP : 137338:_fn
+315 :- NP : 315:_fn
+324 :- NP : 324:_fn
+3724 :- NP : 3724:_fn
+1083 :- NP : 1083:_fn
+2153 :- NP : 2153:_fn
+838 :- NP : 838:_fn
+838 :- NP : 838:_ti
+1039 :- NP : 1039:_fn
+297 :- NP : 297:_fn
+82 :- NP : 82:_fn
+746 :- NP : 746:_fn
+323 :- NP : 323:_fn
+1291 :- NP : 1291:_fn
+928 :- NP : 928:_fn
+1765 :- NP : 1765:_fn
+345 :- NP : 345:_fn
+201 :- NP : 201:_fn
+415 :- NP : 415:_fn
+415 :- NP : 1615:_ti
+343 :- NP : 343:_fn
+271 :- NP : 271:_fn
+1209 :- NP : 1209:_fn
+217 :- NP : 217:_fn
+1222 :- NP : 1222:_fn
+505 :- NP : 505:_fn
+813 :- NP : 813:_fn
+269 :- NP : 269:_fn
+281 :- NP : 281:_fn
+212 :- NP : 212:_fn
+352 :- NP : 352:_fn
+106 :- NP : 106:_fn
+257 :- NP : 257:_fn
+210 :- NP : 210:_fn
+497 :- NP : 497:_fn
+417 :- NP : 417:_fn
+3357 :- NP : 3357:_fn
+279 :- NP : 279:_fn
+98 :- NP : 98:_fn
+296 :- NP : 296:_fn
+459 :- NP : 459:_fn
+19 :- NP : 19:_fn
+539 :- NP : 539:_fn
+405 :- NP : 405:_fn
+311 :- NP : 311:_fn
+270 :- NP : 270:_fn
+852 :- NP : 852:_fn
+fort worth dallas  :- NP : fort_worth:_ci
+montreal canada :- NP : montreal:_ci
+tampa florida :- NP : tampa:_ci
+san francisco california :- NP : san_francisco:_ci
+tacoma washington :- NP : tacoma:_ci
+charlotte north carolina :- NP : charlotte:_ci
+long beach california :- NP : long_beach:_ci
+st. petersburg florida  :- NP : st_petersburg:_ci
+florida :- NP : florida:_st
+new york's la guardia :- NP : lga:_ap
+the airport mco :- NP : mco:_ap
+1700 dollars :- NP : 1700:_do
+329 dollars :- NP : 329:_do
+2226 dollars :- NP : 2226:_do
+1330 dollars :- NP : 1330:_do
+2400 dollars :- NP : 2400:_do
+1850 dollars :- NP : 1850:_do
+1410 dollars :- NP : 1410:_do
+720 dollars :- NP : 720:_do
+600 dollars :- NP : 600:_do
+1645 dollars :- NP : 1645:_do
+200 dollars :- NP : 200:_do
+1923 dollars :- NP : 1923:_do
+1045 dollars :- NP : 1045:_do
+500 dollars :- NP : 500:_do
+1930 dollars :- NP : 1930:_do
+1200 dollars :- NP : 1200:_do
+1310 dollars :- NP : 1310:_do
+2023 dollars :- NP : 2023:_do
+1401 dollars :- NP : 1401:_do
+1830 dollars :- NP : 1830:_do
+1130 dollars :- NP : 1130:_do
+815 dollars :- NP : 815:_do
+1620 dollars :- NP : 1620:_do
+718 dollars :- NP : 718:_do
+1630 dollars :- NP : 1630:_do
+700 dollars :- NP : 700:_do
+2000 dollars :- NP : 2000:_do
+1615 dollars :- NP : 1615:_do
+41 dollars :- NP : 41:_do
+1430 dollars :- NP : 1430:_do
+1500 dollars :- NP : 1500:_do
+1245 dollars :- NP : 1245:_do
+1145 dollars :- NP : 1145:_do
+1628 dollars :- NP : 1628:_do
+1400 dollars :- NP : 1400:_do
+1300 dollars :- NP : 1300:_do
+300 dollars :- NP : 300:_do
+823 dollars :- NP : 823:_do
+1030 dollars :- NP : 1030:_do
+1524 dollars :- NP : 1524:_do
+645 dollars :- NP : 645:_do
+1205 dollars :- NP : 1205:_do
+845 dollars :- NP : 845:_do
+1940 dollars :- NP : 1940:_do
+1815 dollars :- NP : 1815:_do
+838 dollars :- NP : 838:_do
+1110 dollars :- NP : 1110:_do
+100 dollars :- NP : 100:_do
+650 dollars :- NP : 650:_do
+1230 dollars :- NP : 1230:_do
+2010 dollars :- NP : 2010:_do
+800 dollars :- NP : 800:_do
+819 dollars :- NP : 819:_do
+1115 dollars :- NP : 1115:_do
+2358 dollars :- NP : 2358:_do
+1900 dollars :- NP : 1900:_do
+1024 dollars :- NP : 1024:_do
+755 dollars :- NP : 755:_do
+1730 dollars :- NP : 1730:_do
+1220 dollars :- NP : 1220:_do
+900 dollars :- NP : 900:_do
+2100 dollars :- NP : 2100:_do
+1715 dollars :- NP : 1715:_do
+0 dollars :- NP : 0:_do
+1505 dollars :- NP : 1505:_do
+2300 dollars :- NP : 2300:_do
+1100 dollars :- NP : 1100:_do
+1425 dollars :- NP : 1425:_do
+630 dollars :- NP : 630:_do
+2134 dollars :- NP : 2134:_do
+2200 dollars :- NP : 2200:_do
+555 dollars :- NP : 555:_do
+1133 dollars :- NP : 1133:_do
+1600 dollars :- NP : 1600:_do
+1800 dollars :- NP : 1800:_do
+1000 dollars :- NP : 1000:_do
+1017 dollars :- NP : 1017:_do
+705 dollars :- NP : 705:_do
+2220 dollars :- NP : 2220:_do
+1700 :- NP : 1700:_ti
+1230pm :- NP : 1230:_ti
+419pm :- NP : 1619:_ti
+1850 :- NP : 1850:_ti
+5 in the evening :- NP : 1700:_ti
+7 o'clock in the evening :- NP : 1900:_ti
+934pm :- NP : 2134:_ti
+2 o'clock :- NP : 200:_ti
+200 :- NP : 200:_ti
+1026 :- NP : 2226:_ti
+530pm :- NP : 1700:_ti
+530pm :- NP : 1730:_ti
+4 o'clock :- NP : 1600:_ti
+1133am :- NP : 1133:_ti
+1020pm :- NP : 2220:_ti
+5am :- NP : 500:_ti
+110pm :- NP : 1310:_ti
+400 :- NP : 400:_ti
+3pm :- NP : 1500:_ti
+1pm :- NP : 1300:_ti
+11 o'clock pm :- NP : 2300:_ti
+noon :- NP : 1200:_ti
+12 noon :- NP : 1200:_ti
+12 o'clock noon :- NP : 1200:_ti
+2am :- NP : 200:_ti
+645am :- NP : 645:_ti
+1017 in the morning :- NP : 1017:_ti
+700 :- NP : 700:_ti
+830am :- NP : 830:_ti
+305 in the afternoon :- NP : 1505:_ti
+1 in the afternoon :- NP : 1300:_ti
+4am :- NP : 400:_ti
+1024 in the morning :- NP : 1024:_ti
+5 o'clock :- NP : 500:_ti
+5 o'clock :- NP : 1700:_ti
+2000 :- NP : 2000:_ti
+7am :- NP : 700:_ti
+10pm :- NP : 2200:_ti
+7 in the evening :- NP : 1900:_ti
+815am :- NP : 815:_ti
+1500 :- NP : 1500:_ti
+1030am :- NP : 1030:_ti
+1400 :- NP : 1400:_ti
+1300 :- NP : 1300:_ti
+11 o'clock am :- NP : 1100:_ti
+7 o'clock pm :- NP : 1900:_ti
+730pm :- NP : 1930:_ti
+6 o'clock :- NP : 1800:_ti
+6 o'clock :- NP : 600:_ti
+6 in the evening :- NP : 1800:_ti
+6 o'clock at night :- NP : 1800:_ti
+2 :- NP : 1400:_ti
+1 o'clock am :- NP : 100:_ti
+650 :- NP : 650:_ti
+10 in the morning :- NP : 1000:_ti
+819 :- NP : 819:_ti
+3 o'clock pm :- NP : 1500:_ti
+3 o'clock in the afternoon :- NP : 1500:_ti
+3 in the afternoon  :- NP : 1500:_ti
+930am :- NP : 930:_ti
+6pm :- NP : 1800:_ti
+5pm :- NP : 1700:_ti
+420 :- NP : 1620:_ti
+1201am :- NP : 1:_ti
+1am :- NP : 100:_ti
+530am :- NP : 530:_ti
+one in the afternoon :- NP : 1300:_ti
+2100 :- NP : 2100:_ti
+1505 :- NP : 1505:_ti
+5 o'clock in the morning :- NP : 500:_ti
+4pm :- NP : 1600:_ti
+830pm :- NP : 2030:_ti
+8 o'clock in the evening :- NP : 2000:_ti
+2 in the afternoon :- NP : 1400:_ti
+2134 :- NP : 2134:_ti
+555 :- NP : 555:_ti
+10 o'clock in the morning :- NP : 1000:_ti
+8 :- NP : 2000:_ti
+8 :- NP : 800:_ti
+8 in the morning :- NP : 800:_ti
+5 o'clock am :- NP : 500:_ti
+1045am :- NP : 1045:_ti
+1800 :- NP : 1800:_ti
+3 o'clock am :- NP : 300:_ti
+1000 :- NP : 1000:_ti
+5 :- NP : 1700:_ti
+1 o'clock :- NP : 1300:_ti
+1245pm :- NP : 1245:_ti
+600 :- NP : 600:_ti
+225pm :- NP : 1425:_ti
+1220pm :- NP : 1220:_ti
+723pm :- NP : 1923:_ti
+5 in the afternoon :- NP : 1700:_ti
+230pm :- NP : 1430:_ti
+1 o'clock pm :- NP : 1300:_ti
+500 :- NP : 500:_ti
+8 o'clock am :- NP : 800:_ti
+1200 :- NP : 1200:_ti
+515pm :- NP : 1715:_ti
+5 o'clock in the afternoon :- NP : 1700:_ti
+130pm :- NP : 1330:_ti
+10am :- NP : 1000:_ti
+10am in the morning :- NP : 1000:_ti
+230 :- NP : 1430:_ti
+720am :- NP : 720:_ti
+210pm :- NP : 1410:_ti
+1110 in the morning :- NP : 1110:_ti
+755am :- NP : 755:_ti
+630pm :- NP : 1830:_ti
+1145am :- NP : 1145:_ti
+130am :- NP : 130:_ti
+1115am :- NP : 1115:_ti
+3am :- NP : 300:_ti
+845 in the morning :- NP : 845:_ti
+4 o'clock am :- NP : 400:_ti
+430pm :- NP : 1630:_ti
+430 :- NP : 1630:_ti
+43pm :- NP : 2023:_ti
+2pm :- NP : 1400:_ti
+1030pm :- NP : 2230:_ti
+838am :- NP : 838:_ti
+930pm :- NP : 2130:_ti
+2 o'clock am :- NP : 200:_ti
+12 :- NP : 1200:_ti
+12pm :- NP : 1200:_ti
+10 o'clock :- NP : 1000:_ti
+9pm :- NP : 2100:_ti
+430am :- NP : 430:_ti
+530 :- NP : 1730:_ti
+4 o'clock pm :- NP : 1600:_ti
+6 o'clock pm :- NP : 1800:_ti
+4 in the afternoon :- NP : 1600:_ti
+823 in the morning :- NP : 823:_ti
+11am :- NP : 1100:_ti
+1 :- NP : 100:_ti
+1940 :- NP : 1940:_ti
+330am :- NP : 330:_ti
+7 o'clock am :- NP : 700:_ti
+100 :- NP : 100:_ti
+100 :- NP : 100:_do
+100 :- NP : 100:_ac
+300 :- NP : 300:_ti
+10 o'clock in the evening :- NP : 2200:_ti
+810pm :- NP : 2010:_ti
+718am :- NP : 718:_ti
+9 o'clock pm :- NP : 2100:_ti
+9am :- NP : 900:_ti
+0900 :- NP : 900:_ti
+9am in the morning  :- NP : 900:_ti
+800 :- NP : 800:_ti
+5 o'clock pm :- NP : 1700:_ti
+7pm :- NP : 1900:_ti
+330pm :- NP : 1530:_ti
+8am :- NP : 800:_ti
+8 o'clock pm :- NP : 2000:_ti
+755 :- NP : 755:_ti
+8pm :- NP : 2000:_ti
+1130am :- NP : 1130:_ti
+428 :- NP : 1628:_ti
+230am :- NP : 230:_ti
+2 o'clock pm :- NP : 1400:_ti
+900 :- NP : 900:_ti
+1130pm :- NP : 2330:_ti
+10 o'clock pm :- NP : 2200:_ti
+2300 :- NP : 2300:_ti
+324pm :- NP : 1524:_ti
+630am :- NP : 630:_ti
+1158pm :- NP : 2358:_ti
+1100 :- NP : 1100:_ti
+6 :- NP : 1800:_ti
+2 o'clock in the afternoon :- NP : 1400:_ti
+6 o'clock am :- NP : 600:_ti
+130 in the afternoon :- NP : 1330:_ti
+630 :- NP : 630:_ti
+3 :- NP : 1500:_ti
+3 :- NP : 3:_i
+2200 :- NP : 2200:_ti
+615pm :- NP : 1815:_ti
+6am :- NP : 600:_ti
+7 o'clock in the morning :- NP : 700:_ti
+1600 :- NP : 1600:_ti
+9 o'clock am :- NP : 900:_ti
+10 o'clock am :- NP : 1000:_ti
+11pm :- NP : 2300:_ti
+730am :- NP : 730:_ti
+12 o'clock :- NP : 1200:_ti
+12 o'clock in the afternoon :- NP : 1200:_ti
+9 o'clock :- NP : 900:_ti
+9 o'clock :- NP : 2100:_ti
+705 :- NP : 705:_ti
+1205 in the afternoon :- NP : 1205:_ti
+sd/d :- NP : sd_d:_rc
+ap57 :- NP : ap_57:_rc
+restrictions ap57 :- NP : ap_57:_rc
+restriction ap58 :- NP : ap_58:_rc
+memphis tennessee :- NP : memphis:_ci
+seattle washington  :- NP : seattle:_ci
+d/s :- NP : d_s:_rc
+1600  :- NP : 1600:_ti
+meal code s :- NP : s:_rc
+restriction ap :- NP : ap:_rc
+hou :- NP : hou:_ap
+iah :- NP : iah:_ap
+fare code q  :- NP : q:_fb
+fare code yn  :- NP : yn:_fb
+ap68 :- NP : ap_68:_rc
+restriction ap68 :- NP : ap_68:_rc
+sa :- NP : sa:_dc
+s/ :- NP : s:_rc
+abbreviation us :- NP : us:_al
+arizona :- NP : arizona:_st
+nevada :- NP : nevada:_st
+california :- NP : california:_st
+ap/57 :- NP : ap_57:_rc
+us :- NP : us:_al
+mco :- NP : mco:_ap
+noontime :- NP : 1200:_ti
+second :- NP : 2:_dn
+8 o'clock :- NP : 800:_ti
+sfo :- NP : sfo:_ap
+ac :- NP : ac:_al
+466 dollars :- NP : 466:_do
+late :- NP : late:_pd
+4 :- NP : 400:_ti
+4 :- NP : 1600:_ti
+the bay area :- NP : san_francisco:_ci
+932 dollars :- NP : 932:_do
+late evening :- NP : late_evening:_pd
+canadian airlines :- NP : cp:_al
+bna :- NP : bna:_ap
+ap80 :- NP : ap_80:_rc
+cp :- NP : cp:_al
+ap/80 :- NP : ap_80:_rc
+ff :- NP : ff:_al
+ord :- NP : ord:_ap
+lufthansa :- NP : lh:_al
+124 dollars :- NP : 124:_do
+two :- NP : 2:_i
+late night :- NP : late_night:_pd
+ls :- NP : ls:_rc
+400 dollars :- NP : 400:_do
+415 dollars :- NP : 415:_do
+9 hours :- NP : 9:_hr
+the day following next wednesday :- NP : thursday:_da
+445 :- NP : 1645:_ti
+bur :- NP : bur:_ap
+150 dollars :- NP : 150:_do
+between 5 and 7pm :- NP : 1800:_ti
+yyz :- NP : yyz:_ap
+mia :- NP : mia:_ap
+416 dollars :- NP : 416:_do
+late in the evening :- NP : late_evening:_pd
+ap/55 :- NP : ap_55:_rc
+1288 :- NP : 1288:_do
+airport in boston :- NP : bos:_ap
